@@ -17,3 +17,4 @@ def square(x,y,size,color_name):
     left(90)
 
     end_fill()
+# This is a gamebase.
